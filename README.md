@@ -40,18 +40,6 @@
 
 ---
 
-### 🏆 Trophies & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DMKeyy&theme=darkhub&no-bg=true&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMKeyy&theme=react-dark" alt="Activity Graph"/>
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="left">
