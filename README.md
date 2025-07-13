@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
 ### 🧠 About Me
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DMKeyy&show_icons=true&theme=radical" alt="GitHub Stats"/>  
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMKeyy&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
