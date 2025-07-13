@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
 ### 🧠 About Me
 
