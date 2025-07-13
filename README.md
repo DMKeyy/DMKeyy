@@ -47,15 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DMKeyy&theme=react-dark" alt="Activity Graph"/>
-</p>
-
----
-
-### ✍️ Fun Typing Effect (Optional)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+DMKeyy.;Computer+Engineering+Student.;Game+Dev+Lover.;Full-stack+Web+Builder."/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMKeyy&theme=react-dark" alt="Activity Graph"/>
 </p>
 
 ---
@@ -72,9 +64,3 @@
 </p>
 
 ---
-
-<!-- Optional Snake Animation -->
-<!--
-![snake gif](https://github.com/DMKeyy/DMKeyy/blob/output/github-contribution-grid-snake.svg)
--->
-
