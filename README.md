@@ -9,9 +9,8 @@
 
 - 🎓 Computer Engineering student at **USTHB**
 - ⚙️ Building cool stuff in **game development** and **web technologies**
-- 🕹️ Working on a **2D MMORPG with flying combat** and a **GitHub stats comparison web app**
-- 🌱 Learning Unity, multiplayer systems, and full-stack tools
-- 💬 Ask me about anything related to **Unity**, **Java**, **JavaScript**, or **React**
+- 🕹️  Learning Unity, multiplayer systems, and full-stack tools
+- 💬 Ask me about anything related to **Unity**, **Java** or **React**
 - 📫 Reach me at: **dmkeyy.dev[at]gmail.com**
 
 ---
