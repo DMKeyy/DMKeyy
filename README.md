@@ -9,7 +9,7 @@
 
 - 🤖 AI Engineer passionate about **machine learning**, **deep learning**, and **intelligent systems**
 - ⚙️ I love building creative and data-driven projects — from **AI tools** to **games** and **web apps**
-- 🧩 Currently building AI-powered tools, experimenting with neural networks, and exploring intelligent automation
+- 🧩 Currently building AI-powered tools, and exploring intelligent automation
 - 💬 Ask me about **AI**, **Unity**, **React**, or **Java**
 - 📫 Reach me at: **haiouani.anis05@gmail.com**
 
