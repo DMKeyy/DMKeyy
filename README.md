@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anis</h1>
 <h3 align="center">AI Engineering Student | Game Developer | Web Builder</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnisHaiouani&label=Profile%20views&color=0e75b6&style=flat" alt="AnisHaiouani" />
-</p>
----
+
 
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
@@ -45,6 +42,9 @@
 ### 🔗 Let's Connect
 
 <p align="left">
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnisHaiouani&label=Profile%20views&color=0e75b6&style=flat" alt="AnisHaiouani" />
+</p>
   <a href="https://linkedin.com/in/dmkeyy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
