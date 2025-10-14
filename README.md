@@ -7,10 +7,10 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Engineering student at **USTHB**
-- ⚙️ Building cool stuff in **game** and **web developement**
-- 🕹️  Learning Unity, and full-stack tools
-- 💬 Ask me about anything related to **Unity**, **Java** or **React**
+- 🤖 AI Engineer passionate about **machine learning**, **deep learning**, and **intelligent systems**
+- ⚙️ I love building creative and data-driven projects — from **AI tools** to **games** and **web apps**
+- 🧩 Currently building AI-powered tools, experimenting with neural networks, and exploring intelligent automation
+- 💬 Ask me about **AI**, **Unity**, **React**, or **Java**
 - 📫 Reach me at: **haiouani.anis05@gmail.com**
 
 ---
