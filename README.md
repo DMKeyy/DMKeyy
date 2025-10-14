@@ -42,15 +42,15 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnisHaiouani&label=Profile%20views&color=0e75b6&style=flat" alt="AnisHaiouani" />
-</p>
   <a href="https://linkedin.com/in/dmkeyy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:haiouani.anis05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=DMKeyy&label=Profile%20views&color=0e75b6&style=flat" alt="DMKeyy" />
+
 </p>
 
 ---
