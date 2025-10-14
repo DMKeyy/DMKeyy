@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anis</h1>
-<h3 align="center">Computer Engineering Student | Game Developer | Web Builder</h3>
+<h3 align="center">AI Engineering Student | Game Developer | Web Builder</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnisHaiouani&label=Profile%20views&color=0e75b6&style=flat" alt="AnisHaiouani" />
+</p>
 ---
 
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
