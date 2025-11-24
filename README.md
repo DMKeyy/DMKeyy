@@ -7,22 +7,20 @@
 
 ### 🧠 About Me
 
-- 🤖 AI Engineer passionate about ML, DL, and intelligent systems
-- ⚙️ I build AI tools, games, and web apps
-- 🧩 Currently building my game, and exploring intelligent automation
-- 💬 Ask me about **AI**, **Unity**, **React**, or **Java**
+- 🤖 AI Engineer passionate about **Machine Learning**, **Deep Learning**, and intelligent systems  
+- 🎮 Game Developer building interactive experiences in **Unity**  
+- 🌐 Web Developer using **React**, **Express**, and **MySQL**  
+- 🛠️ Currently building **my game** and exploring **intelligent automation**  
+- 💬 Ask me about **AI**, **Unity**, **React**, **Java** or **Express**
 - 📫 Reach me at: **haiouani.anis05@gmail.com**
-
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typecript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
