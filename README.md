@@ -34,9 +34,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMKeyy&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMKeyy&layout=compact&theme=tokyonight" height="150" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-alpha-pink.vercel.app?user=DMKeyy&theme=onedark-duo" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 ---
 
